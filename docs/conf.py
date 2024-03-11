@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Range Energy'
-copyright = '2024, RE'
-author = 'RE'
+copyright = '2024, Chris Castro'
+author = 'Chris Castro'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
